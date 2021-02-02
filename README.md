@@ -2,7 +2,7 @@
 
 Click on desired color grid to copy the hex value.
 
-[Click here to check out the live site]()
+[Click here to check out the live site](https://color-generatorr-reactjs.netlify.app/)
 
 #### Values JS (Dependency)
 
